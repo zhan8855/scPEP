@@ -14,13 +14,13 @@ Kaspar Märtens, Rory Donovan-Maiye, and Jesper Ferkinghoff-Borg. Enhancing gene
 
 ## Formulation
 
-<img src="https://github.com/zhan8855/scPEP/blob/main/formulation.png">
+<img src="https://github.com/zhan8855/scPEP/blob/master/formulation.png">
 
 ## Method
 
-<img src="https://github.com/zhan8855/scPEP/blob/main/method.png">
+<img src="https://github.com/zhan8855/scPEP/blob/master/method.png">
 
 ## Results
 
-<img src="https://github.com/zhan8855/scPEP/blob/main/results.jpeg" width="750">
+<img src="https://github.com/zhan8855/scPEP/blob/master/results.jpeg" width="750">
 
